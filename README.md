@@ -24,6 +24,8 @@ This repository contains the Python source code for the paper:
 - matplotlib
 - seaborn
 - networkx
+- scipy
+- openpyxl
 
 Install all dependencies with:
 
